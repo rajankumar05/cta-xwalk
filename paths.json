@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/cta/:/",
-    "/content/cta:/.helix/config.json",
-    "/content/cta/headers:/.helix/headers.json",
-    "/content/cta/metadata:/metadata.json",
-    "/content/cta/redirects:/redirects.json"
+    "/content/cta-xwalk-wknd/:/",
+    "/content/cta-xwalk-wknd:/.helix/config.json",
+    "/content/cta-xwalk-wknd/headers:/.helix/headers.json",
+    "/content/cta-xwalk-wknd/metadata:/metadata.json",
+    "/content/cta-xwalk-wknd/redirects:/redirects.json"
   ],
   "includes": [
     "/content/cta/"
