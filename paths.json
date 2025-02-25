@@ -7,6 +7,6 @@
     "/content/cta-xwalk-wknd/redirects:/redirects.json"
   ],
   "includes": [
-    "/content/cta/"
+    "/content/cta-xwalk-wknd/"
   ]
 }
