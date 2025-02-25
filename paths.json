@@ -1,10 +1,12 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/cta/:/",
+    "/content/cta:/.helix/config.json",
+    "/content/cta/headers:/.helix/headers.json",
+    "/content/cta/metadata:/metadata.json",
+    "/content/cta/redirects:/redirects.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/cta/"
   ]
 }
