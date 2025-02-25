@@ -1,9 +1,9 @@
 {
   "mappings": [
-    "/content/cta-xwalk-wknd/:/",
-    "/content/cta-xwalk-wknd:/.helix/config.json",
-    "/content/cta-xwalk-wknd/headers:/.helix/headers.json",
-    "/content/cta-xwalk-wknd/metadata:/metadata.json",
-    "/content/cta-xwalk-wknd/redirects:/redirects.json"
+    "/content/cta-xwalk/:/",
+    "/content/cta-xwalk:/.helix/config.json",
+    "/content/cta-xwalk/headers:/.helix/headers.json",
+    "/content/cta-xwalk/metadata:/metadata.json",
+    "/content/cta-xwalk/redirects:/redirects.json"
   ]
 }
