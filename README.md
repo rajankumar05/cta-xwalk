@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--cta-xwalk--rajankumar05.aem.page/
+- Live: https://main--cta-xwalk--rajankumar05.aem.live/
 
 ## Documentation
 
