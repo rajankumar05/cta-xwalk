@@ -5,8 +5,5 @@
     "/content/cta-xwalk-wknd/headers:/.helix/headers.json",
     "/content/cta-xwalk-wknd/metadata:/metadata.json",
     "/content/cta-xwalk-wknd/redirects:/redirects.json"
-  ],
-  "includes": [
-    "/content/cta-xwalk-wknd/"
   ]
 }
