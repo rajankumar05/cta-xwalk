@@ -261,24 +261,19 @@
     ]
   },
   {
-    "id": "custom-asset-one",
+    "id": "dm-asset",
     "fields": [
       {
-        "component": "custom-asset-namespace:custom-asset",
-        "name": "image",
-        "label": "Image",
-        "configUrl": "https://main--cta-xwalk--rajankumar05.aem.page/tools/assets-selector/image.config.json",
+        "component": "text",
+        "name": "dm_alttext",
+        "label": "Alt Text",
         "valueType": "string"
       },
       {
-        "component": "custom-asset-namespace:custom-asset-mimetype",
-        "valueType": "string",
-        "name": "imageMimeType"
-      },
-      {
-        "component": "text",
-        "name": "imageAlt",
-        "label": "Alt Text",
+        "component": "custom-asset-namespace:custom-asset",
+        "name": "dm-image",
+        "label": "Image",
+        "configUrl": "https://main--cta-xwalk--rajankumar05.aem.page/tools/assets-selector/image.config.json",
         "valueType": "string"
       }
     ]
