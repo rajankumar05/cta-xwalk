@@ -18,6 +18,7 @@
       "accordion",
       "teaser",
       "featured-article",
+      "carousel",
       "quote",
       "fragment"
     ]
@@ -38,6 +39,12 @@
     "id": "accordion",
     "components": [
       "accordion-item"
+    ]
+  },
+  {
+    "id": "carousel",
+    "components": [
+      "carousel-item"
     ]
   },
   {
