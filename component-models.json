@@ -267,7 +267,7 @@
         "component": "custom-asset-namespace:custom-asset",
         "name": "image",
         "label": "Image",
-        "configUrl": "https://main--cta-xwalk--rajankumar05.aem.page/tools/assets-selector/config.json",
+        "configUrl": "https://main--cta-xwalk--rajankumar05.aem.page/tools/assets-selector/image.config.json",
         "valueType": "string"
       },
       {
